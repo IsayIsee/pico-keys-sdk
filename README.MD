@@ -20,12 +20,12 @@ This is a personal development fork. For contributions to the main project, plea
 
 ## License
 
-This project maintains the same license as the original project. Please refer to the [LICENSE](https://demo.fuclaude.com/chat/LICENSE) file for details.
+This project maintains the same license as the original project. Please refer to the LICENSE file for details.
 
 ## Credits
 
 - Original project by [Pol Henarejos](https://github.com/polhenarejos)
-- This fork maintained by [IsayIsee]
+- This fork maintained by [IsayIsee](https://github.com/IsayIsee)
 
 ## Disclaimer
 
