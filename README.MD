@@ -16,7 +16,7 @@ For the original project, please visit: [polhenarejos/pico-keys-sdk](https://git
 
 ## Contributing
 
-This is a personal development fork. For contributions to the main project, please visit the [original repository](https://github.com/polhenarejos/pico-openpgp).
+This is a personal development fork. For contributions to the main project, please visit the [original repository](https://github.com/polhenarejos/pico-keys-sdk).
 
 ## License
 
