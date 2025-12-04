@@ -12,8 +12,6 @@ This fork contains custom modifications and development work based on the origin
 
 ## Original Project
 
-**Pico OpenPGP** - OpenPGP card implementation for Raspberry Pi Pico
-
 For the original project, please visit: [polhenarejos/pico-keys-sdk](https://github.com/polhenarejos/pico-keys-sdk)
 
 ## Contributing
